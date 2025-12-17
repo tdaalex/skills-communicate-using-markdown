@@ -5,5 +5,10 @@
 ##### Changed 1
 ###### Image add: ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 #### 2. Make new change on file 2
-##### Changed 2
+##### Change with this code for git init
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 
